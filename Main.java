@@ -39,7 +39,7 @@ else
 
 System.out.println("This number is odd");
 
-int w = 12;
+int w = 10;
 
 if (w % 2 == 0)
 
